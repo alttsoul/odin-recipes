@@ -1,2 +1,3 @@
 # odin-recipes
-repo for recipe project
+
+Recipe project to solidify basic knowledge of html and git.
